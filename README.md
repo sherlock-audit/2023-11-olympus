@@ -12,7 +12,7 @@ mainnet
 ___
 
 ### Q: Which ERC20 tokens do you expect will interact with the smart contracts? 
-DAI, sDAI, wETH, veFXS, FXS, OHM, USDC
+DAI, sDAI, wETH, veFXS, FXS, OHM
 ___
 
 ### Q: Which ERC721 tokens do you expect will interact with the smart contracts? 
