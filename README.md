@@ -80,7 +80,7 @@ Such risks would not be acceptable, as the TRSRY, PRICE and SPPLY modules collec
 ___
 
 ### Q: Do you expect to use any of the following tokens with non-standard behaviour with the smart contracts?
-DAI, USDC
+DAI
 ___
 
 ### Q: Add links to relevant protocol resources
