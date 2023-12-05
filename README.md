@@ -92,6 +92,13 @@ Please also see relevant audit documentation in the repository:
 - audit/23-11_spply_trsry/README.md
 ___
 
+### Q: Some tests are failing. What am I doing wrong?
+
+- Firstly, please ensure that you have read the repository README in bophades/README.md and have followed those instructions
+- Restrict included tests to unit tests. This can be achieved using `pnpm run test:unit`
+- If you are experiencing a unit test failure, try restricting the test run to the specific test contract. For example: `forge test -vvv --match-contract BunniPriceTest`
+___
+
 
 
 
